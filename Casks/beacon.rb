@@ -7,7 +7,7 @@ cask "beacon" do
   desc "Menu bar app for GitHub notifications, reviews and your PRs"
   homepage "https://beacon-for-github.vercel.app"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   auto_updates true
 
