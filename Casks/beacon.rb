@@ -1,6 +1,6 @@
 cask "beacon" do
-  version "1.1.0"
-  sha256 "4b7af7b9fe9430312362fcc9fc1b6b9eb3d68ab7b5e3171fa170c4b5e006639a"
+  version "1.3.0"
+  sha256 "a81e5779fffdd01abf29772bbded5bb4174fe65998043512cea84e1368f96346"
 
   url "https://github.com/Avivhdr/beacon/releases/download/v#{version}/Beacon-#{version}.dmg"
   name "Beacon"
